@@ -13,3 +13,7 @@ https://gabenmach.github.io/Anime-Trailers-App-V2.0/
 Note that the browser may prompt you to allow the scripts to run, tested on Opera(Will tell you the Content is Blocked, you must click it and enable the content), IE(same thing).
 
 When you click the image a youtube trailer is supposed to appear.
+
+Download Instructions: #Instructions: #I- first download the files by clicking "Clone or Download" and unzip it.
+
+#II- Open the folder and run entertainment_center.py to open the HTML page
