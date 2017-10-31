@@ -8,7 +8,4 @@
 #entertainment_center.py creates instances of media.Movie,
 #and pass them to fresh_tomatoes.py, making the page.
 
-#Instructions:
-#I- first download the files by clicking "Clone or Download" and unzip it.
-
-#II- Open the folder and run entertainment_center.py to open the HTML page
+This was originally made for the Udacity NanoDegree, to view the App go here: 
