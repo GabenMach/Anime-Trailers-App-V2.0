@@ -1,4 +1,4 @@
-# Movie-Trailer-Website-Project.
+# Anime-Trailers-App-V2.0
 
 #Requires fresh_tomatoes.py to make the HTML page.
 
