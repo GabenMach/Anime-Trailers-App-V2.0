@@ -9,3 +9,4 @@
 #and pass them to fresh_tomatoes.py, making the page.
 
 This was originally made for the Udacity NanoDegree, to view the App go here: 
+https://gabenmach.github.io/Anime-Trailers-App-V2.0/
