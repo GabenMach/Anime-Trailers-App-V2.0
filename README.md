@@ -10,4 +10,6 @@
 
 This was originally made for the Udacity NanoDegree, to view the App go here: 
 https://gabenmach.github.io/Anime-Trailers-App-V2.0/
-Note that the browser may prompt you to allow the scripts to run, tested on Opera, IE.
+Note that the browser may prompt you to allow the scripts to run, tested on Opera(Will tell you the Content is Blocked, you must click it and enable the content), IE(same thing).
+
+When you click the image a youtube trailer is supposed to appear.
