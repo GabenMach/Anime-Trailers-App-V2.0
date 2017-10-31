@@ -10,3 +10,4 @@
 
 This was originally made for the Udacity NanoDegree, to view the App go here: 
 https://gabenmach.github.io/Anime-Trailers-App-V2.0/
+Note that the browser may prompt you to allow the scripts to run, tested on Opera, IE.
